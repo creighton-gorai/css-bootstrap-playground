@@ -1,0 +1,55 @@
+body {
+    height: auto;
+    width: auto;
+}
+
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.cityscape {
+    background-color: #000B58;
+    position: relative;
+    padding-top: 200px;
+}
+
+.moon-stars {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 200px;
+    top: 25px;
+}
+
+.title-text {
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+.cityscape-img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.khaini-emblem {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.personal-description {
+    background-color: #003161;
+    font-family: "Libre Baskerville", serif;
+    color: white;
+}
+
+.skills {
+    background-color: #006A67;
+    font-family: "Libre Baskerville", serif;
+    color: white;
+}
